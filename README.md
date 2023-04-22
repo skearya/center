@@ -4,6 +4,8 @@
 
 A tool to help get stuff done without distractions. Made with [SvelteKit + Electron](https://github.com/FractalHQ/sveltekit-electron), Tailwind, and TypeScript (partially).
 
+Web version at https://center-skeary.vercel.app/ (no spotify controls)
+
 ### Features:
 - pomodoro timer
 - todo list
