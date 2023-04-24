@@ -12,7 +12,7 @@
 >
 	<div
 		class="{!$preferences.spotify
-			? 'md:full-width'
+			? 'md:full-width md:border-b-0'
 			: ''} lg:row-span-4 lg:col-span-1 lg:border-b-0 md:row-span-3 md:col-span-2 col-span-3 row-span-2 border-r border-b border-moonlightSoft"
 	>
 		<TodoContainer />

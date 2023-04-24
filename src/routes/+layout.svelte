@@ -46,7 +46,7 @@
 			<h1>Enable Spotify</h1>
 			<input
 				type="checkbox"
-				disabled={!window.electron}
+				disabled={!(window.electron && window.electron.isMac)}
 				bind:checked={$preferences.spotify}
 			/>
 		</div>
@@ -54,7 +54,7 @@
 			<h1>Enable Spotify on startup</h1>
 			<input
 				type="checkbox"
-				disabled={!window.electron}
+				disabled={!(window.electron && window.electron.isMac)}
 				bind:checked={$preferences.spotifyOnStartup}
 			/>
 		</div>
