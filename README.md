@@ -1,6 +1,6 @@
 # center
 
-## ⚠️ desktop app currently not reccomended for usage due to issues
+## ⚠️ desktop app currently not recommended for usage due to issues
 
 <img width="1307" alt="image" src="https://user-images.githubusercontent.com/77034153/233804275-abbacb0c-fcdc-45b5-b9a6-8682598179e4.png">
 
